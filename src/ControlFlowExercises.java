@@ -16,7 +16,14 @@ public class ControlFlowExercises {
 //            System.out.println(i2);
 //            i2 -= 5;
 //        } while (i2 >= -10);
+
+//            int i = 2;
 //
+//            do {
+//                System.out.print(i);
+//                i *= i;
+//            }while(i <= 1000000);
+////
 //
 //        }
 
